@@ -9,10 +9,17 @@
 
 .main-content a
 {
-    text-decoration: none;
+
     color: red;
 
 }
+
+.main-content a:hover
+{
+    text-decoration: underline;
+    color: gold;
+}
+
 
 
 body{
@@ -73,6 +80,17 @@ li{
     padding: 15px
     
 }
+
+li a
+{
+    color:  red;
+}
+
+li a:hover
+{
+    color: gold;
+}
+
 
 h1{
     padding: 35px;

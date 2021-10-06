@@ -4,9 +4,6 @@ html {
 
 
 
-
-
-
 .flex-container {
     display: flex;
     flex-direction: row;
@@ -37,8 +34,6 @@ html {
 }
 
 h1 {
-
-
     color: grey;
 }
 
