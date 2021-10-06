@@ -5,6 +5,16 @@
     background-size: cover;
 
 }
+
+
+.main-content a
+{
+    text-decoration: none;
+    color: red;
+
+}
+
+
 body{
     margin: 0;
 }
