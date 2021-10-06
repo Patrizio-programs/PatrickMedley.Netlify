@@ -1,1 +1,23 @@
-button {color: red;}
+$breakpoint: 712px;
+
+@media only screen and (max-width: $breakpoint){
+
+div.flex-container {
+
+    display: block;
+}
+
+
+.flex-child {
+    display: block;
+}
+
+
+.flex-child:first-child {
+
+    display: block;
+}
+
+
+
+}
